@@ -1,4 +1,4 @@
-# FInal Project SDS2019
+# Final Project SDS2019
 
 To run the project files:
 
