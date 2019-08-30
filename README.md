@@ -1,5 +1,7 @@
 # Group 30: Final Project SDS2019
 
+Project url: https://github.com/fleigst/SDS/
+
 To run the project files:
 
 01. Crawling.ipynb: Includes the crawling and data quality part
