@@ -1,4 +1,4 @@
-# Final Project SDS2019
+# Group 30: Final Project SDS2019
 
 To run the project files:
 
