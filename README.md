@@ -1,4 +1,4 @@
-# Group 30: Final Project SDS2019
+Final Project SDS2019 - "Social Data Science" Summer School at University of Copenhagen in 2019
 
 Project url: https://github.com/fleigst/SDS/
 
